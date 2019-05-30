@@ -1,0 +1,25 @@
+ 
+
+h1 {
+    color: black;
+    font-family: 'Wire One';
+    font-size: 70px;
+    position: relative;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: 'Montserrat';
+    font-size: 15px;
+    position: relative;
+    /* text-align: center; */
+}
+
+button {
+    color: black;
+    font-family: 'Montserrat';
+    font-size: 10px;
+    position: relative;
+    text-align: center;
+}
